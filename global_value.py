@@ -9,7 +9,7 @@ HUMIDITY_SET_VALUEF_INAL_ADRESS = 11
 TEMPERATURE_SLOPE_ADRESS = 51
 # HUMIDITY_SLOPE_ADRESS = 33
 
-# Temperature box control 
+# Temperature box control
 SWITCH_ON = 1
 SWITCH_OFF = 0
 
